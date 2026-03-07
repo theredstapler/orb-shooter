@@ -2,6 +2,8 @@
 
 A lightweight, browser-based First-Person Shooter (FPS) demo built entirely from scratch. This project relies purely on **Three.js** for 3D rendering—absolutely no external game engines were used.
 
+Try it here:  [Demo](https://theredstapler.github.io/orb-shooter/) 
+
 ## 🤖 The "Vibe Coding" Experiment
 
 This project served as an experiment in "vibe coding" to test the current capabilities of LLMs in game development. The core logic and mechanics were primarily generated using **Antigravity** powered by **Gemini 3.1 Pro** and **Opus 4.6**, with a focus on keeping human coding intervention to an absolute minimum.
