@@ -695,7 +695,7 @@ function tryShoot() {
     }
 
     if (gun) {
-        gun.position.z += 0.3;
+        gun.position.z += 0.15;
         gun.rotation.x += 0.2;
     }
 
