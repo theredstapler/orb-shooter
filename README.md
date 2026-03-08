@@ -2,7 +2,17 @@
 
 A lightweight, browser-based First-Person Shooter (FPS) demo built entirely from scratch. This project relies purely on **Three.js** for 3D rendering—absolutely no external game engines were used.
 
-Try it here:  [Demo](https://theredstapler.github.io/orb-shooter/) 
+### Controls
+
+* WASD - Movement
+* Shift - Sprint
+* Left Click - Fire
+* Space - Jump
+* Mouse - Look around
+
+### Try it here:  [Demo](https://theredstapler.github.io/orb-shooter/) 
+
+
 
 ## 🤖 The "Vibe Coding" Experiment
 
@@ -10,10 +20,10 @@ This project served as an experiment in "vibe coding" to test the current capabi
 
 ### The Human Element
 While the AI handled the heavy lifting of the code generation, my role was focused on direction and curation:
-1. **Ideation & Prompting:** Conceptualizing the game loop, mechanics, and writing the specific prompts to guide the AI.
-2. **Testing & Feedback:** Playtesting the generated code, identifying bugs, and feeding that context back to the models for iteration.
-3. **Asset Management:** Generating, finding, and selecting all the required assets (3D models, background music, and sound effects).
-4. **Manual Polishing:** Tweaking minor, highly specific details—like hex colors, UI text, and exact positional coordinates—where jumping in manually was simply faster than prompting the AI.
+1. **Ideation & Prompting:** Conceptualizing gameplay, mechanics, and writing the prompts.
+2. **Testing & Feedback:** Playtesting, identifying bugs, and feeding back to the AI for iteration.
+3. **Game Asset** Generating and selecting game assets (3D models, background music, and sound effects).
+4. **Manual Polishing:** Tweaking minor, highly specific details—like hex colors, UI text, exact positional coordinates—where jumping in manually was simply faster than prompting the AI.
 
 ## 🛠️ Tech Stack
 
