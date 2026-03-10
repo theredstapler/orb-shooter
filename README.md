@@ -13,7 +13,6 @@ A lightweight, browser-based First-Person Shooter (FPS) demo built entirely from
 ### Try it here:  [Demo](https://theredstapler.github.io/orb-shooter/) 
 
 
-
 ## 🤖 The "Vibe Coding" Experiment
 
 This project served as an experiment in "vibe coding" to test the current capabilities of LLMs in game development. The core logic and mechanics were primarily generated using **Antigravity** powered by **Gemini 3.1 Pro** and **Opus 4.6**, with a focus on keeping human coding intervention to an absolute minimum.
@@ -35,6 +34,25 @@ While the AI handled the heavy lifting of the code generation, my role was focus
 Want to see exactly how this game was built and learn how to vibe code your own Three.js projects? Check out the full video tutorial documenting the process on my channel:
 
 👉 **[Watch the full build process on YouTube](https://www.youtube.com/c/RedStapler_channel)**
+
+## 💻Installation
+To get this project running locally on your machine, follow these steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/theredstapler/orb-shooter.git
+cd orb-shooter
+```
+
+2. Install the dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
 
 ## 📜 Credits
 
